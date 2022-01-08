@@ -1,0 +1,4 @@
+﻿  Assignment 3.cpp
+C:\Users\imran\source\repos\Assignment 3\Assignment 3\Assignment 3.cpp(87,13): warning C4101: 'age': unreferenced local variable
+C:\Users\imran\source\repos\Assignment 3\Assignment 3\Assignment 3.cpp(201,13): warning C4101: 'groupNumber': unreferenced local variable
+  Assignment 3.vcxproj -> C:\Users\imran\source\repos\Assignment 3\x64\Debug\Assignment 3.exe
